@@ -9,6 +9,6 @@ h1{
 body{
   text-align: center;
   font-family: "Arial";
-  color: black;
+  color: (0, 0, 0);
   font-size: 150%;
 }
