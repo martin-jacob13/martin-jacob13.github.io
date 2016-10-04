@@ -2,12 +2,12 @@ img{
   width: 1000px;
 }
 
+h1{
+  color: red;
+}
+
 body{
   text-align: center;
   font-family: "Arial";
   color: green;
-}
-
-h1{
-  color: red;
 }
