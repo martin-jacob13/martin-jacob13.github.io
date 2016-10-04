@@ -4,10 +4,12 @@ img{
 
 h1{
   color: red;
+  font-size: 250%;
 }
 
 body{
   text-align: center;
   font-family: "Arial";
   color: green;
+  font-size: 500%;
 }
