@@ -12,12 +12,11 @@ h1{
 }
 
 body{
-  height: 100%;
+  height: 100%; width: 100%; padding: 0; margin: 0;
   text-align: center;
   font-family: "Arial";
   color: white;
   font-size: 150%;
   font-weight: bolder;
+  cursor: wait;
 }
-
-div#mask { cursor: wait; z-index: 999; height: 100%; width: 100%; }
