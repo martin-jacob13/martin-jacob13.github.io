@@ -4,6 +4,7 @@ img{
   top: 0px;
   z-index: -1;
   width: 1000px;
+  cursor: wait;
 }
 
 h1{
