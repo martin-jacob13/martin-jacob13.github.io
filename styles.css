@@ -1,6 +1,6 @@
 img{
   position: absolute;
-  right: 0px;
+  left: 100px;
   top: 0px;
   z-index: -1;
   width: 1000px;
